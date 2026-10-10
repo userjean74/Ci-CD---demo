@@ -6,6 +6,6 @@ jobs:
     
     steps:
       - name: hello step
-        run: echo "Welcome to hello"
         run: |  
         echo "This is my class"
+        echo "my name"
