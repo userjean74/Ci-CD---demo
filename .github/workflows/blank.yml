@@ -6,4 +6,4 @@ jobs:
     
     steps:
       - name: hello step
-        run: echo"Welcome to hello"
+        run: echo "Welcome to hello"
