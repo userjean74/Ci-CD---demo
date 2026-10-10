@@ -8,4 +8,4 @@ jobs:
       - name: hello step
         run: |
           echo "Thuis is my class"
-          ecgo "Welcome to Atlanta"
+          echo "Welcome to Atlanta"
