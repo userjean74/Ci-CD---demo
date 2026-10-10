@@ -13,7 +13,7 @@ jobs:
      steps:
       - name: Test phase
         run: echo "Walking"
-  dev:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Optional test phase
